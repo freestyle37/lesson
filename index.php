@@ -10,7 +10,8 @@
     <?php
 
     ?>
-
+<p>Focus the IFrame first (e.g. by clicking in it), then try pressing some keys.</p>
+<p id="log"></p>
 
 
   <style>
